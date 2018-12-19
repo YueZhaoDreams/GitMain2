@@ -1,0 +1,3 @@
+[submodule "hgos"]
+	path = hgos
+	url = https://github.microstrategy.com/yuzhao/GitSubModule
